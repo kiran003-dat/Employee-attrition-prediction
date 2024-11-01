@@ -1,0 +1,7 @@
+## Employee Attrition Prediction
+This project uses machine learning to predict employee attrition based on various attributes. By implementing models like Logistic Regression, Random Forest, and AdaBoost, it aims to identify key factors influencing attrition.
+The process involves data preprocessing, feature encoding, and model evaluation through cross-validation. The results provide insights into the predictive power of each model, assisting organizations in proactive employee retention strategies.
+
+## Prerequisites
+- You need to have Python 3 and the required dependencies installed on your system to run this script.
+- Code is written in Jupyter Notebook
